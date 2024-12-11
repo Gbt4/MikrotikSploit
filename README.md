@@ -57,7 +57,7 @@ $ python3 MikrotikSploit.py
 
 -------------------------------------
 
-### _☣ Install MikrotikSploit on Termux_
+   
 
 ```BASH
 $ pkg update
